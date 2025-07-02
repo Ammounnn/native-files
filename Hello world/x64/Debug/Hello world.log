@@ -1,0 +1,27 @@
+﻿  dllmain.cpp
+C:\Users\Emine\Desktop\gta\Hello world\Hello world\dllmain.cpp(51,13): error C2039: 'BEGIN_TEXT_COMMAND_DISPLAY_TEXT' n'est pas membre de 'UI'
+  (compiler le fichier source '/dllmain.cpp')
+      C:\Users\Emine\Desktop\gta\Hello world\Hello world\natives.h(2990,11):
+      voir la déclaration de 'UI'
+  
+C:\Users\Emine\Desktop\gta\Hello world\Hello world\dllmain.cpp(55,13): error C2039: 'SET_COLOUR_OF_NEXT_TEXT_COMPONENT' n'est pas membre de 'UI'
+  (compiler le fichier source '/dllmain.cpp')
+      C:\Users\Emine\Desktop\gta\Hello world\Hello world\natives.h(2990,11):
+      voir la déclaration de 'UI'
+  
+C:\Users\Emine\Desktop\gta\Hello world\Hello world\dllmain.cpp(59,13): error C2039: 'ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME' n'est pas membre de 'UI'
+  (compiler le fichier source '/dllmain.cpp')
+      C:\Users\Emine\Desktop\gta\Hello world\Hello world\natives.h(2990,11):
+      voir la déclaration de 'UI'
+  
+C:\Users\Emine\Desktop\gta\Hello world\Hello world\dllmain.cpp(91,13): error C2039: 'END_TEXT_COMMAND_DISPLAY_TEXT' n'est pas membre de 'UI'
+  (compiler le fichier source '/dllmain.cpp')
+      C:\Users\Emine\Desktop\gta\Hello world\Hello world\natives.h(2990,11):
+      voir la déclaration de 'UI'
+  
+C:\Users\Emine\Desktop\gta\Hello world\Hello world\dllmain.cpp(118,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '/dllmain.cpp')
+  
+C:\Users\Emine\Desktop\gta\Hello world\Hello world\dllmain.cpp(119,21): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '/dllmain.cpp')
+  
